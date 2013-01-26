@@ -41,3 +41,4 @@ t/12depth.t
 t/pod-coverage.t
 t/pod.t
 t/README
+META.json                                Module JSON meta-data (added by MakeMaker)
